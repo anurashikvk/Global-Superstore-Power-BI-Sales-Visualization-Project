@@ -4,10 +4,7 @@
 
 Welcome to the Global Superstore Sales Analysis GitHub repository! This project focuses on utilizing Power BI visualizations to analyze the sales data of Global Superstore, a store with branches worldwide. The repository contains a collection of visualizations that provide insights into sales patterns at various geographic levels and delve into shipping cost trends.
 
-![Global Superstore Sales Analysis with Power BI visualizations](https://github.com/anurashikvk/Global-Superstore-Power-BI-Sales-Visualization-Project/assets/134492695/224c94f9-30e5-43c7-9e35-eaf59f666bec)
-
-
-![Global Superstore Sales Analysis with Power BI tabels](https://github.com/anurashikvk/Global-Superstore-Power-BI-Sales-Visualization-Project/assets/134492695/ad2de45a-1581-488f-8faa-ce8c5f8db617)
+![pexels-miguel-á-padriñán-1591055](https://github.com/anurashikvk/Global-Superstore-Power-BI-Sales-Visualization-Project/assets/134492695/aefe2845-c1f2-439f-b33e-21aa67de03f2)
 
 ## Objective:
 
@@ -30,7 +27,7 @@ The primary objectives of this project are as follows:
 
 ## Data Source:
 
-This project uses the Global Superstore dataset, which is open source and available on Kaggle. You can access the dataset [here](link-to-dataset). The dataset is in CSV format, comprising 51,290 observations and 24 features.
+This project uses the Global Superstore dataset, which is open source and available on Kaggle. You can access the dataset [here]([link-to-dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset)). The dataset is in CSV format, comprising 51,290 observations and 24 features.
 
 ## Visualizations:
 
@@ -66,6 +63,11 @@ This project uses the Global Superstore dataset, which is open source and availa
 
 11. **Sales by Segment:**
     - *Visualization:* Donut Chart
+
+![Global Superstore Sales Analysis with Power BI visualizations](https://github.com/anurashikvk/Global-Superstore-Power-BI-Sales-Visualization-Project/assets/134492695/224c94f9-30e5-43c7-9e35-eaf59f666bec)
+
+
+![Global Superstore Sales Analysis with Power BI tabels](https://github.com/anurashikvk/Global-Superstore-Power-BI-Sales-Visualization-Project/assets/134492695/ad2de45a-1581-488f-8faa-ce8c5f8db617)
 
 ## Conclusion:
 
