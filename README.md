@@ -6,6 +6,8 @@ Welcome to the Global Superstore Sales Analysis GitHub repository! This project 
 
 ![Screenshot 2023-12-22 024326](https://github.com/anurashikvk/Global-Superstore-Power-BI-Sales-Visualization-Project/assets/134492695/c8bb147a-5c22-4f46-8d87-e73722de3eb7)
 
+![Global Superstore Sales Analysis with Power BI tabels](https://github.com/anurashikvk/Global-Superstore-Power-BI-Sales-Visualization-Project/assets/134492695/ad2de45a-1581-488f-8faa-ce8c5f8db617)
+
 ## Objective:
 
 The primary objectives of this project are as follows:
