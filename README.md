@@ -27,7 +27,10 @@ The primary objectives of this project are as follows:
 
 ## Data Source:
 
-This project uses the Global Superstore dataset, which is open source and available on Kaggle. You can access the dataset [here]([link-to-dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset)). The dataset is in CSV format, comprising 51,290 observations and 24 features.
+This project uses the Global Superstore dataset, which is open source and available on Kaggle. You can access the dataset  [here]([link-to-dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset)). The dataset is in CSV format, comprising 51,290 observations and 24 features.
+
+![pexels-pixabay-264636](https://github.com/anurashikvk/Global-Superstore-Power-BI-Sales-Visualization-Project/assets/134492695/a3594343-08c6-4eac-b868-9fd80f245f31)
+
 
 ## Visualizations:
 
@@ -84,4 +87,3 @@ Consider adding the following content to enhance the repository:
 ## Contributing:
 
 Contributions and feedback are welcome! If you have suggestions, improvements, or encounter any issues, feel free to open an issue or submit a pull request.
-
